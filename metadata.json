@@ -1,0 +1,6 @@
+{
+  "name": "CookMe Fashion & Lifestyle Store",
+  "description": "Full-stack e-commerce application built with React, Redux Toolkit, Tailwind CSS, Express ESM, MongoDB/Mongoose models, JWT authentication, and AI shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
